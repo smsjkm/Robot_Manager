@@ -19,8 +19,6 @@
 ## 📊 Updated Architecture Diagram<img width="892" alt="Robot_Manager_architect_diagram" src="https://github.com/user-attachments/assets/558c960c-0bf9-49d3-a5e3-8df57eaaab98" />
 
 
-![Robot Manager Architecture](./Robot_Manager_architect_diagram.png)
-
 ---
 
 ## 🧠 Functional Highlights
