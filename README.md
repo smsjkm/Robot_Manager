@@ -3,6 +3,11 @@
 # 🤖 Robot Manager – AI-Powered Oversight of Digital Workers
 
 ### Orchestrating 80+ RPA Bots Across Global Operations in Hospitality
+![Hilton_RPA_Global](https://img.shields.io/badge/Enterprise%20Adoption-Hilton%20Worldwide-blue)  
+![RPA_AI_Orchestration](https://img.shields.io/badge/RPA%20Bots-80%2B-green)  
+![Deployment_Regions](https://img.shields.io/badge/Deployment-4%20Continents-orange)  
+![IEEE_Published](https://img.shields.io/badge/Research-Published%20%7C%20IEEE%20%2B%20Taylor%20%26%20Francis-important)
+
 ---
 
 ## 🌐 Overview
