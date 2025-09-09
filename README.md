@@ -3,16 +3,17 @@
 # 🤖 Robot Manager – AI-Powered Oversight of Digital Workers
 
 ### Orchestrating 80+ RPA Bots Across Global Operations in Hospitality
-![Hilton_RPA_Global](https://img.shields.io/badge/Enterprise%20Adoption-Hilton%20Worldwide-blue)  
 ![RPA_AI_Orchestration](https://img.shields.io/badge/RPA%20Bots-80%2B-green)  
 ![Deployment_Regions](https://img.shields.io/badge/Deployment-4%20Continents-orange)  
 ![IEEE_Published](https://img.shields.io/badge/Research-Published%20%7C%20IEEE%20%2B%20Taylor%20%26%20Francis-important)
+
+Research Paper: https://www.researchgate.net/publication/388180094_Robot_Manager_AI-Powered_Oversight_of_Digital_Workers_in_Hospitality
 
 ---
 
 ## 🌐 Overview
 
-**Robot Manager** is an enterprise-grade, AI-enhanced orchestration system that manages 80+ digital workers (RPA bots) in production across Hilton’s global operations. It unifies **job scheduling, predictive analytics, autonomous error handling, and real-time monitoring**—enabling scalable, self-governing automation for critical business functions.
+**Robot Manager** is an enterprise-grade, AI-enhanced orchestration system that manages 80+ digital workers (RPA bots) in production across Fortune 500 Hospitality company’s global operations. It unifies **job scheduling, predictive analytics, autonomous error handling, and real-time monitoring**—enabling scalable, self-governing automation for critical business functions.
 
 ---
 
